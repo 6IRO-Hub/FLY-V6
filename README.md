@@ -1,2 +1,2 @@
-# -FLY-V9-BY-KIRO-BY-ADAM-R2-
+# ~/FLY|V9|BY|KIRO|BY|Adam\~
 Very nice and beautiful flight script, easy to control by KIRO | BY ADAM R2
