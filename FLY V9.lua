@@ -57,7 +57,7 @@ TextLabel.BorderColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.Position = UDim2.new(0.469327301, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "BY KIR | BY Adam "
+TextLabel.Text = "BY KIRO | BY Adam "
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14 --[[==============================]]
