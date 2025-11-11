@@ -57,7 +57,7 @@ TextLabel.BorderColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.Position = UDim2.new(0.469327301, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "BY KIRO | BY Adam "
+TextLabel.Text = "BY VORTEX | BY ADAM"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14 --[[==============================]]
@@ -149,7 +149,7 @@ local ctrl = {
 }
 game:GetService("StarterGui"):SetCore(
     "SendNotification",
-    {Title = "FLY V9", Text = "The script has been run successfully. The script will be deleted after 2 years.", Duration = 5}
+    {Title = "FLY V6", Text = "The script has been run successfully. The script will be deleted after 2 years.", Duration = 5}
 )
 local mouse = game.Players.LocalPlayer:GetMouse()
 mouse.KeyDown:connect(
