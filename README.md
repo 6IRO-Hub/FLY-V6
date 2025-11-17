@@ -1,2 +1,11 @@
-# ~/FLY|V9|BY|KIRO|BY|Adam\~
-Very nice and beautiful flight script, easy to control by KIRO | BY ADAM R2
+# BY VORTEX
+
+By: VORTEX
+
+Name: FLY V6
+
+Updated: 2025/11/17
+
+version: V6
+
+•••••••••• Thank you all ••••••••••
